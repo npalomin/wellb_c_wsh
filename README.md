@@ -7,7 +7,10 @@ Wed Sep 16, 10:00 AM - 11:45 AM EDT / 3:00 PM - 4:45 PM Your local time   (1 Hou
 ## Study Area Presentations
 
 - Video (with audio)
-- Powepoint
+https://youtu.be/4lL0fxZ4WGg
+
 - Presentation on PDF format (no animation)
 
+
+- Forum Program URL
 https://newcities.org/2020-wellbeing-cities-forum-montreal/program/

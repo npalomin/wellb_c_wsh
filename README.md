@@ -10,7 +10,7 @@ Wed Sep 16, 10:00 AM - 11:45 AM EDT (1 Hour, 45 Min)
 https://youtu.be/4lL0fxZ4WGg
 
 - Presentation in PDF format (no animation)
-https://github.com/npalomin/wellb_c_wsh/blob/master/well_being_cities_conf_GeoDesign.pdf
+https://github.com/npalomin/wellb_c_wsh/blob/master/well_being_cities_conf_GeoDesign_nn.pdf
 
 
 - Wellbeing Cities Forum 2020. From Smart Cities to Wellbeing Cities. Program URL
